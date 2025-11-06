@@ -3,7 +3,7 @@
 # Jekyll Digital Collection Generator, designed for GitHub Pages
 # https://github.com/CollectionBuilder/collectionbuilder-gh
 ##########
-theme: jekyll-theme-minimal
+
 ##########
 # URL VARIABLES [optional if using GitHub Pages!]
 #
@@ -63,3 +63,5 @@ exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md,
 # compress CSS output
 sass:
   style: compressed
+
+theme: jekyll-theme-cayman
