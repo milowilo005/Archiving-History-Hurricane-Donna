@@ -23,7 +23,7 @@ The Southwestern region was not the only area affected either. The storm impacte
 {% include feature/pdf.html objectid="cchs_hd_0005" width="50" %}
 Following up a few days after the storm, the Fort Myers News-Press published another newspaper to update about the initial detrimental impacts of and responses to Donna. The billions of dollars in damages, President Eisenhower’s response, the storm's impact on the New England area, and the climbing death toll were highlighted on the front page. 
 {% include feature/image.html objectid="cchs_hd_0009" width="75" %}
-Collier County was among the few areas most affected by the storm, especially concerning storm surge and flooding. This photograph, taken by an unknown/unnamed photographer, captures the flooding of a neighborhood in Everglades City.
+Collier County was among the few areas most affected by the storm, especially concerning storm surge and flooding. This photograph, taken by an unknown/unnamed photographer, captures the flooding of a neighborhood in Everglades City after Donna had passed through.
 {% include feature/pdf.html objectid="cchs_hd_0001" width="50" %}
 This article, written by an unknown author, details further about the devastation of Donna and the public’s view of the storm on a much more personal level. Many personal accounts of individual people’s experiences, from Collier County residents to officers that were on duty at the time of evacuation, are included in order to support the author's claim that “Donna was the worst storm we ever had.”
 {% include feature/image.html objectid="cchs_hd_0007" width="75" %}
