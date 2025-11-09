@@ -15,8 +15,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
-
-Hurricane Donna.
+Hurricane Donna, regarded as the most devestating storm of the 1960 Atlantic hurricane season, impacted the South of Florida immensely.
 
 {% include feature/pdf.html objectid="cchs_hd_0004" width="50" %}
 Context of pre-swfl landfall.
