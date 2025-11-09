@@ -29,5 +29,3 @@ Hurricane Donna.
 {% include feature/image.html objectid="cchs_hd_0007" width="75" %}
 
 {% include feature/pdf.html objectid="cchs_hd_0006" width="50" %}
-
-{% include cb/about_the_about.md %} 
