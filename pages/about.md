@@ -19,13 +19,14 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 Hurricane Donna.
 
 {% include feature/pdf.html objectid="cchs_hd_0004" width="50" %}
-
+Context of pre-swfl landfall.
 {% include feature/image.html objectid="cchs_hd_0009" width="75" %}
-
+Flooding in a neighborhood.
 {% include feature/image.html objectid="cchs_hd_0013" width="75" %}
-
+National Guard appearance.
 {% include feature/pdf.html objectid="cchs_hd_0001" width="50" %}
-
+Letter about the devestation.
 {% include feature/image.html objectid="cchs_hd_0007" width="75" %}
-
+Picture of the fishing dock that never opened again.
 {% include feature/pdf.html objectid="cchs_hd_0006" width="50" %}
+Florida Health notes, more context on how it affected the area for years to come.
