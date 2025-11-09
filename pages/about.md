@@ -20,7 +20,7 @@ Hurricane Donna.
 
 {% include feature/pdf.html objectid="cchs_hd_0004" width="50" %}
 
-{% include feature/image.html objectid="cchs_hd_0008" width="100" %}
+{% include feature/image.html objectid="cchs_hd_0008" width="200" %}
 
 {% include feature/image.html objectid="cchs_hd_0013" width="75" %}
 
